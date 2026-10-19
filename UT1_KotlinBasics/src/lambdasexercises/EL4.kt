@@ -1,0 +1,5 @@
+package lambdasexercises
+
+fun main(){
+
+}
